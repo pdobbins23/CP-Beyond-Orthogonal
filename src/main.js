@@ -1,4 +1,4 @@
-// Exercise 01: Normalized Movement
+// Code Practice: Beyond Orthogonal
 // Name:
 // Date: 
 
